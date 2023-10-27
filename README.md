@@ -8,11 +8,13 @@
 - 🏂 I like snowboarding very much!
 - 🎹 Sometimes I play piano
 
+![Snowboarding GIF](https://giphy.com/gifs/l0Iy2PyFmAFOC7m24)
+
 ## My GitHub Streaks
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harrycpc&theme=yellowdark)](https://git.io/streak-stats)
 
-## Languages and Tools
+<!-- ## Languages and Tools
 
 <p align="center">
   <img src="./images/JavaScript-logo.png" alt="JavaScript Logo" width="40" height="40" style="margin-right: 10px;">
@@ -22,7 +24,15 @@
   <img src="./images/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="40" height="40" style="margin-right: 10px;">
   <img src="./images/svelte.png" alt="Svelte Logo" height="40" style="margin-right: 10px;">
   <img src="./images/Python-logo-notext.svg.png" alt="Python Logo" height="40" style="margin-right: 10px;">
-</p>
+</p> -->
+
+## Tech Stack
+
+- [![Python](https://img.shields.io/badge/Python-3.7-blue)](https://www.python.org/)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![React](https://img.shields.io/badge/React-17-green)](https://reactjs.org/)
+- [![Node.js](https://img.shields.io/badge/Node.js-14.17-green)](https://nodejs.org/)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)](https://www.postgresql.org/)
 
 <!-- ## My Projects
 
