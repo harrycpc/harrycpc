@@ -8,7 +8,9 @@
 - 🏂 I like snowboarding very much!
 - 🎹 Sometimes I play piano
 
-<img src="https://giphy.com/embed/l0Iy2PyFmAFOC7m24" width="200">
+<img src="https://i.imgur.com/2CQ317E.gif" width="200">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTloenVoYTBqZXRoeW5sdjVlZWYweHI1MWZlbWU2YjE3cmM5cDA0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy2PyFmAFOC7m24/giphy.gif" width="200">
+<img src="https://media1.giphy.com/media/l3vR3yQePff1586YM/giphy.gif?cid=ecf05e47qlu8kk7cy3p6dlf0dtm6hxb95gdcky9l0elyexdy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200">
 
 ## My GitHub Streaks
 
