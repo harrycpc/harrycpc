@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=harrycpc&color=orange)
 
-- 🇭🇰 Hong Kong -> 🇦🇺 Australia -> 🇨🇦 Canada -> 🤔?
+- 🇭🇰 Hong Kong -> 🇦🇺 Australia -> 🇨🇦 Canada
 - 🧑🏻‍💻 I’m currently working on my **personal portfolio**
 - 💻 I’m currently learning **AWS** and **Svelte**
 - 🏂 I like snowboarding very much!
