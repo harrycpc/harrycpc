@@ -8,7 +8,7 @@
 - 🏂 I like snowboarding very much!
 - 🎹 Sometimes I play piano
 
-![Snowboarding GIF](https://giphy.com/gifs/l0Iy2PyFmAFOC7m24)
+<img src="https://giphy.com/embed/l0Iy2PyFmAFOC7m24" width="200">
 
 ## My GitHub Streaks
 
