@@ -16,9 +16,9 @@
 
 ## My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harrycpc&theme=git-dark&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=harrycpc&theme=sunset-gradient&card_width=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=harrycpc&theme=git-dark&card_width=200&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-w68d.vercel.app?user=harrycpc&theme=git-dark&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-w68d.vercel.app?user=harrycpc&theme=sunset-gradient&card_width=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-w68d.vercel.app?user=harrycpc&theme=git-dark&card_width=200&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrycpc&theme=holi&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
