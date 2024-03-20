@@ -75,7 +75,6 @@
 
 ## 🤝 Get in Touch
 
-- 📧 Email: harryyccp@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry-chow)
 
 Feel free to reach out, and let's connect! ✌️
