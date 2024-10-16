@@ -6,7 +6,6 @@
 - 💻 I’m currently learning **AWS** and **Svelte**
 - 🏂 I like snowboarding very much!
 - 🎹 Sometimes I play piano
-- 🇭🇰 Hong Kong -> 🇦🇺 Australia -> 🇨🇦 Canada
 
 <div style="display: flex;">
     <img src="https://i.imgur.com/2CQ317E.gif" width="200" style="margin-right: 5px">
