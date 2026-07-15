@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=harrycpc&label=Profile%20Views&color=5&pretty=false)](https://visitcount.itsvg.in)
 
 - 🧑🏻‍💻 I’m currently working on my **personal portfolio**
-- 💻 I’m currently learning **Linux** and **AWS**
+- 💻 I’m currently taking  **Red Hat RHCSA RHEL 10 Video Course by Sander Van Vugt**
 - 🏂 I like snowboarding very much!
 - 🎹 Sometimes I play piano
 
