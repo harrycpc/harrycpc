@@ -6,8 +6,6 @@
   <a href="https://harrycpc.github.io/harrycpc/"><img src="button.svg" width="230" alt="▶ Open the interactive terminal"></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=harrycpc&label=Profile%20Views&color=5&pretty=false)](https://visitcount.itsvg.in)
-
 ## `$ cat stack.txt`
 
 <table>
