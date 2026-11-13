@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://harrycpc.github.io/harrycpc/"><img src="terminal.svg" width="820" alt="Terminal: Hi, I'm Harry — Graduate DevOps Engineer, learning Linux, Bash, RHEL (RHCSA), Red Hat OpenShift and ArgoCD, loves snowboarding. Click to open the interactive terminal."></a><br>
   <br>
-  <a href="https://harrycpc.github.io/harrycpc/"><img src="button.svg" width="230" alt="▶ Open the interactive terminal"></a>
+  <a href="https://harrycpc.github.io/harrycpc/"><img src="button.svg" width="230" alt="▶ Open the interactive terminal"></a><br>
+  <img src="https://komarev.com/ghpvc/?username=harrycpc&label=%24%20profile%20views&color=313244&style=flat-square" alt="profile views">
 </p>
 
 ## `$ cat stack.txt`
