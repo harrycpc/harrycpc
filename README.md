@@ -1,7 +1,7 @@
 <h1 align="center">harry@github:~$ <code>whoami</code></h1>
 
 <p align="center">
-  <a href="https://harrycpc.github.io/harrycpc/"><img src="terminal.svg" width="820" alt="Terminal: Hi, I'm Harry — Graduate DevOps Engineer, learning RHEL (RHCSA), Red Hat OpenShift and ArgoCD, loves snowboarding. Click to open the interactive terminal."></a><br>
+  <a href="https://harrycpc.github.io/harrycpc/"><img src="terminal.svg" width="820" alt="Terminal: Hi, I'm Harry — Graduate DevOps Engineer, learning Linux, Bash, RHEL (RHCSA), Red Hat OpenShift and ArgoCD, loves snowboarding. Click to open the interactive terminal."></a><br>
   <br>
   <a href="https://harrycpc.github.io/harrycpc/"><img src="button.svg" width="230" alt="▶ Open the interactive terminal"></a>
 </p>
@@ -13,11 +13,11 @@
 <table>
   <tr>
     <td><code>devops</code></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,docker,aws,git,githubactions,bash&theme=dark" height="48" alt="Linux, Docker, AWS, Git, GitHub Actions, Bash"></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions&theme=dark" height="48" alt="Docker, AWS, Git, GitHub Actions"></td>
   </tr>
   <tr>
     <td><code>learning</code></td>
-    <td><img src="https://skillicons.dev/icons?i=redhat,openshift&theme=dark" height="48" alt="RHEL (RHCSA), Red Hat OpenShift"> <img src="icons/argocd.svg" width="48" height="48" alt="ArgoCD"></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,bash,redhat,openshift&theme=dark" height="48" alt="Linux, Bash, RHEL (RHCSA), Red Hat OpenShift"> <img src="icons/argocd.svg" width="48" height="48" alt="ArgoCD"></td>
   </tr>
   <tr>
     <td><code>web</code></td>

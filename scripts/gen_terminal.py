@@ -19,8 +19,8 @@ script = [  # ('cmd', text) is typed; ('out', spans[, 'bars']) fades in
   ('out', [span('  learning  ', DIM), span('Red Hat RHCSA (RHEL 10)', YELLOW), span(' — Sander Van Vugt course', DIM)]),
   ('out', [span('  hobbies   ', DIM), span('🏂 snowboarding')]),
   ('cmd', 'cat stack.txt'),
-  ('out', row('devops', ['Linux', 'Docker', 'AWS', 'Git', 'CI/CD', 'Bash'])),
-  ('out', row('learning', ['RHEL (RHCSA)', 'Red Hat OpenShift', 'ArgoCD']) + [span('▓▓▓░░', YELLOW)]),
+  ('out', row('devops', ['Docker', 'AWS', 'Git', 'CI/CD'])),
+  ('out', row('learning', ['Linux', 'Bash', 'RHEL (RHCSA)', 'Red Hat OpenShift', 'ArgoCD']) + [span('▓▓▓░░', YELLOW)]),
   ('out', row('web', ['React', 'Next.js', 'Node.js', 'Python', 'Django'])),
   ('cmd', 'play'),
   ('out', [span('  ♪ now playing  ', DIM), span('harry.fm — snow day loop')], 'bars'),
@@ -67,7 +67,7 @@ for i, (kind, data, a, e) in enumerate(events + [('cursor', None, end, end)]):
 
 H = TOP + len(events) * LH + 24
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="ttl">
-<title id="ttl">Terminal: Harry, Graduate DevOps Engineer — learning RHCSA, loves snowboarding. Click to open the interactive terminal.</title>
+<title id="ttl">Terminal: Harry, Graduate DevOps Engineer — learning Linux, RHCSA, OpenShift and ArgoCD, loves snowboarding. Click to open the interactive terminal.</title>
 <defs>
 <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#313244"/><stop offset="1" stop-color="#2a2b3d"/></linearGradient>
 {chr(10).join(defs)}
