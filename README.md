@@ -37,8 +37,4 @@
 
 ## `$ cat motto.txt`
 
-```console
-$ cat motto.txt
-"Train your own model."
-    — Kelsey Hightower
-```
+<img src="motto.svg" width="820" alt="&quot;Train your own model.&quot; — Kelsey Hightower">
