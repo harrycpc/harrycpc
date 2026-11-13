@@ -27,8 +27,7 @@
 
 ## `$ ./stats`
 
-<!-- stats.svg + snake.svg are built daily by .github/workflows/profile-assets.yml into the `output` branch -->
-<img src="https://raw.githubusercontent.com/harrycpc/harrycpc/output/stats.svg" width="820" alt="GitHub stats and top languages">
+<!-- snake.svg is built daily by .github/workflows/profile-assets.yml into the `output` branch -->
 
 [![GitHub Streak](https://github-readme-streak-stats-w68d.vercel.app?user=harrycpc&background=1e1e2e&border=45475a&stroke=45475a&ring=a6e3a1&fire=f9e2af&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=a6e3a1&dates=7f849c&border_radius=10&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats-w68d.vercel.app?user=harrycpc&background=1e1e2e&border=45475a&stroke=45475a&ring=a6e3a1&fire=f9e2af&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=a6e3a1&dates=7f849c&border_radius=10&card_width=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
