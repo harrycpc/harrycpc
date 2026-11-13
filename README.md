@@ -42,5 +42,3 @@ $ cat motto.txt
 "Train your own model."
     — Kelsey Hightower
 ```
-
-<sub>On learning for yourself instead of letting AI do it. <a href="https://bsky.app/profile/kelseyhightower.com/post/3lprgm5exq22y">Original post</a> (Bluesky, May 2025)</sub>
