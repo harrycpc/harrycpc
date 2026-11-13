@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="820" height="400" viewBox="0 0 820 400" role="img" aria-labelledby="ttl">
+<title id="ttl">Terminal: Harry — learning RHCSA, snowboarding, piano. Click to open the interactive terminal.</title>
+<style>
+text{font:16px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;white-space:pre}
+@keyframes o0{0%,3.51%{opacity:0}3.80%,97%{opacity:1}100%{opacity:0}}.o0{animation:o0 17.11s infinite}
+@keyframes t0{0%,3.51%{transform:translateX(0);animation-timing-function:steps(6,end)}5.96%,100%{transform:translateX(70px)}}.t0{animation:t0 17.11s infinite}
+@keyframes o1{0%,8.59%{opacity:0}8.88%,97%{opacity:1}100%{opacity:0}}.o1{animation:o1 17.11s infinite}
+@keyframes o2{0%,13.85%{opacity:0}14.14%,97%{opacity:1}100%{opacity:0}}.o2{animation:o2 17.11s infinite}
+@keyframes t2{0%,13.85%{transform:translateX(0);animation-timing-function:steps(13,end)}19.17%,100%{transform:translateX(138px)}}.t2{animation:t2 17.11s infinite}
+@keyframes o3{0%,21.80%{opacity:0}22.09%,97%{opacity:1}100%{opacity:0}}.o3{animation:o3 17.11s infinite}
+@keyframes o4{0%,23.85%{opacity:0}24.14%,97%{opacity:1}100%{opacity:0}}.o4{animation:o4 17.11s infinite}
+@keyframes o5{0%,29.11%{opacity:0}29.40%,97%{opacity:1}100%{opacity:0}}.o5{animation:o5 17.11s infinite}
+@keyframes t5{0%,29.11%{transform:translateX(0);animation-timing-function:steps(13,end)}34.42%,100%{transform:translateX(138px)}}.t5{animation:t5 17.11s infinite}
+@keyframes o6{0%,37.05%{opacity:0}37.35%,97%{opacity:1}100%{opacity:0}}.o6{animation:o6 17.11s infinite}
+@keyframes o7{0%,39.10%{opacity:0}39.39%,97%{opacity:1}100%{opacity:0}}.o7{animation:o7 17.11s infinite}
+@keyframes o8{0%,44.36%{opacity:0}44.65%,97%{opacity:1}100%{opacity:0}}.o8{animation:o8 17.11s infinite}
+@keyframes t8{0%,44.36%{transform:translateX(0);animation-timing-function:steps(4,end)}46.00%,100%{transform:translateX(51px)}}.t8{animation:t8 17.11s infinite}
+@keyframes o9{0%,48.63%{opacity:0}48.92%,97%{opacity:1}100%{opacity:0}}.o9{animation:o9 17.11s infinite}
+@keyframes o10{0%,53.89%{opacity:0}54.18%,97%{opacity:1}100%{opacity:0}}.o10{animation:o10 17.11s infinite}
+@keyframes t10{0%,53.89%{transform:translateX(0);animation-timing-function:steps(22,end)}62.89%,100%{transform:translateX(225px)}}.t10{animation:t10 17.11s infinite}
+@keyframes o11{0%,65.52%{opacity:0}65.81%,97%{opacity:1}100%{opacity:0}}.o11{animation:o11 17.11s infinite}
+@keyframes o12{0%,70.78%{opacity:0}71.07%,97%{opacity:1}100%{opacity:0}}.o12{animation:o12 17.11s infinite}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:eq .6s ease-in-out infinite alternate}
+@keyframes eq{from{transform:scaleY(.2)}to{transform:scaleY(1)}}
+.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){g,rect{animation:none!important;opacity:1}rect[class^=t]{display:none}}
+</style>
+<rect width="820" height="400" rx="10" fill="#111712" stroke="#1f2b20"/>
+<path d="M0 10a10 10 0 0 1 10-10h800a10 10 0 0 1 10 10v26H0z" fill="#0e130f"/>
+<circle cx="20" cy="18" r="6" fill="#ff5f57"/><circle cx="40" cy="18" r="6" fill="#febc2e"/><circle cx="60" cy="18" r="6" fill="#28c840"/>
+<text x="410.0" y="23" text-anchor="middle" fill="#6f8f6c" style="font-size:13px">harry@github: ~ — zsh</text>
+<g class="o0"><text x="24" y="64"><tspan fill="#7CFC9a">harry@github</tspan><tspan fill="#6f8f6c">:</tspan><tspan fill="#7fd3ff">~</tspan><tspan fill="#6f8f6c">$</tspan> <tspan fill="#c8f7c5">whoami</tspan></text><rect class="t0" x="179.2" y="46" width="70" height="24" fill="#111712"/></g>
+<g class="o1"><text x="24" y="90" fill="#c8f7c5">Hi everyone, I&#x27;m <tspan fill="#7CFC9a">Harry</tspan> 🫶</text></g>
+<g class="o2"><text x="24" y="116"><tspan fill="#7CFC9a">harry@github</tspan><tspan fill="#6f8f6c">:</tspan><tspan fill="#7fd3ff">~</tspan><tspan fill="#6f8f6c">$</tspan> <tspan fill="#c8f7c5">cat about.txt</tspan></text><rect class="t2" x="179.2" y="98" width="138" height="24" fill="#111712"/></g>
+<g class="o3"><text x="24" y="142" fill="#c8f7c5"><tspan fill="#6f8f6c">  learning  </tspan><tspan fill="#ffcf6e">Red Hat RHCSA (RHEL 10)</tspan> — Sander Van Vugt course</text></g>
+<g class="o4"><text x="24" y="168" fill="#c8f7c5"><tspan fill="#6f8f6c">  hobbies   </tspan>🏂 snowboarding   🎹 piano</text></g>
+<g class="o5"><text x="24" y="194"><tspan fill="#7CFC9a">harry@github</tspan><tspan fill="#6f8f6c">:</tspan><tspan fill="#7fd3ff">~</tspan><tspan fill="#6f8f6c">$</tspan> <tspan fill="#c8f7c5">cat stack.txt</tspan></text><rect class="t5" x="179.2" y="176" width="138" height="24" fill="#111712"/></g>
+<g class="o6"><text x="24" y="220" fill="#c8f7c5">  JavaScript  TypeScript  Python  React  Next.js  Svelte</text></g>
+<g class="o7"><text x="24" y="246" fill="#c8f7c5">  Node.js  Django  Postgres  Docker  AWS  Three.js</text></g>
+<g class="o8"><text x="24" y="272"><tspan fill="#7CFC9a">harry@github</tspan><tspan fill="#6f8f6c">:</tspan><tspan fill="#7fd3ff">~</tspan><tspan fill="#6f8f6c">$</tspan> <tspan fill="#c8f7c5">play</tspan></text><rect class="t8" x="179.2" y="254" width="51" height="24" fill="#111712"/></g>
+<g class="o9"><text x="24" y="298" fill="#c8f7c5">  ♪ now playing  <tspan fill="#7CFC9a">harry.fm — snow day loop</tspan></text><rect class="bar" x="441.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.45s"/><rect class="bar" x="448.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.50s"/><rect class="bar" x="455.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.55s"/><rect class="bar" x="462.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.60s"/><rect class="bar" x="469.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.65s"/><rect class="bar" x="476.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.70s"/><rect class="bar" x="483.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.75s"/><rect class="bar" x="490.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.80s"/><rect class="bar" x="497.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.85s"/><rect class="bar" x="504.09999999999997" y="284" width="5" height="16" fill="#7CFC9a" style="animation-duration:0.45s"/></g>
+<g class="o10"><text x="24" y="324"><tspan fill="#7CFC9a">harry@github</tspan><tspan fill="#6f8f6c">:</tspan><tspan fill="#7fd3ff">~</tspan><tspan fill="#6f8f6c">$</tspan> <tspan fill="#c8f7c5">./open-terminal --live</tspan></text><rect class="t10" x="179.2" y="306" width="225" height="24" fill="#111712"/></g>
+<g class="o11"><text x="24" y="350" fill="#c8f7c5"><tspan fill="#7fd3ff">  → harrycpc.github.io/harrycpc</tspan><tspan fill="#6f8f6c">   ← click to try it (with music!)</tspan></text></g>
+<g class="o12"><text x="24" y="376"><tspan fill="#7CFC9a">harry@github</tspan><tspan fill="#6f8f6c">:</tspan><tspan fill="#7fd3ff">~</tspan><tspan fill="#6f8f6c">$</tspan></text><rect class="cur" x="179.2" y="361" width="10" height="19" fill="#7CFC9a"/></g>
+</svg>

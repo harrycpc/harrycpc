@@ -1,18 +1,15 @@
-<h1 align="center">Hi everyone, I'm Harry 🫶</h1>
+<h1 align="center">harry@github:~$ <code>whoami</code></h1>
+
+<p align="center">
+  <a href="https://harrycpc.github.io/harrycpc/"><img src="terminal.svg" width="820" alt="Terminal: Hi, I'm Harry — learning Red Hat RHCSA (RHEL 10), snowboarding, piano. Click to open the interactive terminal."></a><br>
+  <br>
+  <a href="https://harrycpc.github.io/harrycpc/"><img src="button.svg" width="340" alt="▶ Open the interactive terminal"></a><br>
+  <sub>type <code>help</code> · <code>play</code> for music · <code>piano</code> to jam</sub>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=harrycpc&label=Profile%20Views&color=5&pretty=false)](https://visitcount.itsvg.in)
 
-- 💻 I’m currently taking  **Red Hat RHCSA RHEL 10 Video Course by Sander Van Vugt**
-- 🏂 I like snowboarding very much!
-- 🎹 Sometimes I play piano
-
-<div style="display: flex;">
-    <img src="https://i.imgur.com/2CQ317E.gif" width="200" style="margin-right: 5px">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTloenVoYTBqZXRoeW5sdjVlZWYweHI1MWZlbWU2YjE3cmM5cDA0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy2PyFmAFOC7m24/giphy.gif" width="200" style="margin-right: 5px">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5saXF6azhyZDZkdWVyaG0xZW1hbG4zMHIyaDNubTVydjg5d292MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dIhJD7ozfPvfVRZTLp/giphy.gif" width="200" height="200">
-</div>
-
-## My GitHub Stats
+## `$ ./stats`
 
 [![GitHub Streak](https://github-readme-streak-stats-w68d.vercel.app?user=harrycpc&theme=git-dark&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats-w68d.vercel.app?user=harrycpc&theme=sunset-gradient&card_width=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
@@ -20,7 +17,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrycpc&theme=holi&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 💻 Tech Stack:
+## `$ cat stack.txt`
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=flat-square)
@@ -59,15 +56,15 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white&style=flat-square)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white&style=flat-square)
 
-## 🏆 GitHub Trophies
+## `$ ls trophies/`
 
 ![](https://github-profile-trophy.vercel.app/?username=harrycpc&theme=juicyfresh&no-frame=false&no-bg=true&column=5&margin-w=15&margin-h=15&row=1)
 
-### ✍️ Random Dev Quote
+### `$ fortune`
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-## 🤝 Get in Touch
+## `$ ./contact`
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry-chow)
 
